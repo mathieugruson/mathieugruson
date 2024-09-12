@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**About Me**: Briefly, my curiosity in IT sparked during my law studies. After completing my degree and undertaking extensive internships in business and criminal law, I pivoted to pursue IT at the **42 School of Paris**. This journey has been nothing short of transformative.
+
 In this repository, I display my work from the **42 School of Paris**: 
 - 📚 [42 School Curriculum](https://github.com/mathieugruson/42_school_cursus)
 
@@ -13,6 +15,5 @@ For a glimpse into my professional coding standards, check out this freelance pr
 **BUT**, there's one project that truly encapsulates my heart and soul—even though it didn’t pan out as hoped. I’ve poured everything into it, and I highly recommend checking it out to really gauge my abilities:
 - 🌍 [Release Soon](https://github.com/mathieugruson/release_soon) - Stay tuned!
 
-**About Me**: Briefly, my curiosity in IT sparked during my law studies in Maastricht. After completing my degree and undertaking extensive internships in business and criminal law, I pivoted to pursue IT at the **42 School of Paris**. This journey has been nothing short of transformative.
 
 🔗 [Connect with me on LinkedIn](www.linkedin.com/in/mathieu-gruson-85bb711aa)
