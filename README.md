@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**mathieugruson/mathieugruson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In this repository, I display my work from the **42 School of Paris**: 
+- 📚 [42 School Curriculum](https://github.com/mathieugruson/42_school_cursus)
 
-Here are some ideas to get you started:
+You'll also find some side projects I undertook for pleasure or to explore new ideas:
+- 🌟 [Poplaw Public](https://github.com/mathieugruson/poplaw_public) - Exploring legal tech innovations.
+- 🔍 [AMF Scrapping](https://github.com/mathieugruson/amf_scrapping) - A dive into data extraction from financial domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For a glimpse into my professional coding standards, check out this freelance project where I've prioritized clean and reusable code:
+- 💼 [Graph Matching](https://github.com/mathieugruson/graph_matching)
+
+**BUT**, there's one project that truly encapsulates my heart and soul—even though it didn’t pan out as hoped. I’ve poured everything into it, and I highly recommend checking it out to really gauge my abilities:
+- 🌍 [Release Soon](https://github.com/mathieugruson/release_soon) - Stay tuned!
+
+**About Me**: Briefly, my curiosity in IT sparked during my law studies in Maastricht. After completing my degree and undertaking extensive internships in business and criminal law, I pivoted to pursue IT at the **42 School of Paris**. This journey has been nothing short of transformative.
+
+🔗 [Connect with me on LinkedIn](www.linkedin.com/in/mathieu-gruson-85bb711aa)
