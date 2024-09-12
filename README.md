@@ -2,6 +2,10 @@
 
 Briefly, my curiosity in IT sparked during my law studies. After completing my degree and undertaking extensive internships in business and criminal law, I pivoted to pursue IT at the **42 School of Paris**. This journey has been amazing so far. You can look at some projet I share in my github.
 
+<img src="https://github.com/user-attachments/assets/5051c28f-1317-4ef6-b359-446c40b02c8a" width="600" height="400" alt="Profile Picture">
+
+***
+
 In this repository, I display my work from the **42 School of Paris**: 
 - 📚 [42 School Curriculum](https://github.com/mathieugruson/42_school_cursus)
 
@@ -15,7 +19,6 @@ Nevertheless, if you want to see how i code when it matters, you can look this f
 **BUT**, there is one project where I put my all my energy during five months into even if it did not succeed infortunality. I explain everything there and I strongly recommand you to look at it if you want to gauge my abilities:
 - ⚖️ [docufind project](https://github.com/mathieugruson/docufind_project) - Pain point : lawyer face some time really huge huge docs
 
-![image](https://github.com/user-attachments/assets/c0abd0d0-1b4a-4f47-815c-7cb873f72510)
 
 
 🔗 [Connect with me on LinkedIn](www.linkedin.com/in/mathieu-gruson-85bb711aa)
