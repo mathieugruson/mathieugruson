@@ -15,5 +15,7 @@ Nevertheless, if you want to see how i code when it matters, you can look this f
 **BUT**, there is one project where I put my all my energy during five months into even if it did not succeed infortunality. I explain everything there and I strongly recommand you to look at it if you want to gauge my abilities:
 - ⚖️ [docufind project](https://github.com/mathieugruson/docufind_project) - Pain point : lawyer face some time really huge huge docs
 
+![image](https://github.com/user-attachments/assets/ff6930e9-cfe3-479d-b84d-ab13878f5672)
+
 
 🔗 [Connect with me on LinkedIn](www.linkedin.com/in/mathieu-gruson-85bb711aa)
