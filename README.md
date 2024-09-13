@@ -6,7 +6,7 @@ My curiosity for coding and IT sparked during my law studies. After completing m
 
 ***
 
-In this repository, I display my work from the **42 School of Paris**: 
+In this repository, I display all my projects from the **42 School of Paris**: 
 - 📚 [42 School Curriculum](https://github.com/mathieugruson/42_school_cursus)
 
 You will also find some little side projects I did to show some idea that I have pursued for pleasure or to see if there is something to dig :
