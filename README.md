@@ -16,7 +16,7 @@ You will also find some little side projects I did to show some idea that I have
 Nevertheless, if you want to see how i code when it matters, you can look this freelance project where I tried to do some clean and reusable code:
 - 💼 [Graph Matching](https://github.com/mathieugruson/graph_matching)
 
-**BUT**, there is **one project where I put my all my energy** during five months into even if it did not succeed unfortunately. I explain everything there and I strongly recommand you to look at it if you want to gauge my abilities:
+**BUT**, there is **one AI related project where I put my all my energy** during five months into even if it did not succeed unfortunately. I explain everything there and I strongly recommand you to look at it if you want to gauge my abilities:
 - ⚖️ [docufind project](https://github.com/mathieugruson/docufind_project) - Pain point : lawyers face some time really huge huge docs
 
 ###
