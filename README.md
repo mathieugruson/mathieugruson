@@ -13,6 +13,7 @@ You will also find some little side projects I did to show some idea that I have
 - 🌟 [Poplaw Public](https://github.com/mathieugruson/poplaw_public) - Exploring how to gather all law articles in one place.
 - 🔍 [AMF Scrapping](https://github.com/mathieugruson/amf_scrapping) - How to extract data from AMF without API.
 - 🔍 [Senat Colloque Speech-to-text](https://github.com/mathieugruson/speech-to-text_prototype) - How to extract the content of a 3h30 colloque in few minutes.
+- 📚 [YouTube Summary Extension](https://github.com/mathieugruson/youtube-summary-extension) - How to copy quickly Youtube transricpt quickly to ask question to LLM.
 
 Nevertheless, if you want to see how i code when it matters, you can look this freelance project where I tried to do some clean and reusable code:
 - 💼 [Graph Matching](https://github.com/mathieugruson/graph_matching)
