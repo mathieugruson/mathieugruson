@@ -12,8 +12,10 @@ In this repository, I display all my projects from the **42 School of Paris**:
 You will also find some little side projects I did to show some idea that I have pursued for pleasure or to see if there is something to dig :
 - 🌟 [Poplaw Public](https://github.com/mathieugruson/poplaw_public) - Exploring how to gather all law articles in one place.
 - 🔍 [AMF Scrapping](https://github.com/mathieugruson/amf_scrapping) - How to extract data from AMF without API.
-- 🔍 [Senat Colloque Speech-to-text](https://github.com/mathieugruson/speech-to-text_prototype) - How to extract the content of a 3h30 colloque in few minutes.
-- 📚 [YouTube Summary Extension](https://github.com/mathieugruson/youtube-summary-extension) - How to copy quickly Youtube transricpt quickly to ask question to LLM.
+- 🏛️🎥🗣️✍️[Senat Colloque Speech-to-text](https://github.com/mathieugruson/speech-to-text_prototype) - How to extract the content of a 3h30 colloque in few minutes.
+- 🎥📝 [YouTube Summary Extension](https://github.com/mathieugruson/youtube-summary-extension) - How to copy quickly get Youtube transricpt to ask question to LLM.
+- 🌐⏳ [Web Friction Chrome Extension](https://github.com/mathieugruson/web-friction-extension) - A personal tool to tackle my own web addiction by adding friction.
+- 📈💻 [trading-cli](https://github.com/mathieugruson/trading-cli) - My own tool for trading without spending to much time on the chart.
 
 Nevertheless, if you want to see how i code when it matters, you can look this freelance project where I tried to do some clean and reusable code:
 - 💼 [Graph Matching](https://github.com/mathieugruson/graph_matching)
